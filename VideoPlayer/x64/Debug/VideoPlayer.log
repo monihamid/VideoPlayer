@@ -1,0 +1,11 @@
+﻿  VideoPlayer.cpp
+  Main.cpp
+  Generating Code...
+VideoPlayer.obj : error LNK2001: unresolved external symbol IID_IMediaSeeking
+VideoPlayer.obj : error LNK2001: unresolved external symbol IID_IGraphBuilder
+VideoPlayer.obj : error LNK2001: unresolved external symbol IID_IMediaControl
+VideoPlayer.obj : error LNK2001: unresolved external symbol IID_IMediaEvent
+VideoPlayer.obj : error LNK2001: unresolved external symbol IID_IBasicAudio
+VideoPlayer.obj : error LNK2001: unresolved external symbol CLSID_FilterGraph
+MSVCRTD.lib(exe_winmain.obj) : error LNK2019: unresolved external symbol WinMain referenced in function "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ)
+C:\Users\computer1\Desktop\FinalProjectMeterials\SET-JAB\x64\Debug\VideoPlayer.exe : fatal error LNK1120: 7 unresolved externals
